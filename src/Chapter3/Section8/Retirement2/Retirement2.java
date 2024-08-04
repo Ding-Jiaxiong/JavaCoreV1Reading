@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * This program demonstrates a <code>do/while</code> loop.
  * @version 1.20 2004-02-10
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  */
 public class Retirement2
 {

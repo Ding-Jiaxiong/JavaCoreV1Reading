@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * This program demonstrates array manipulation.
  * @version 1.20 2004-02-10
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  */
 public class LotteryDrawing
 {

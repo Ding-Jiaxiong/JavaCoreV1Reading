@@ -3,7 +3,7 @@ package Chapter3.Section10.CompoundInterest;
 /**
  * This program shows how to store tabular data in a 2D array.
  * @version 1.40 2004-02-10
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  */
 public class CompoundInterest
 {

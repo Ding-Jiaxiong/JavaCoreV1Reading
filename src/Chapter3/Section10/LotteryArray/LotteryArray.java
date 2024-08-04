@@ -3,7 +3,7 @@ package Chapter3.Section10.LotteryArray;
 /**
  * This program demonstrates a triangular array.
  * @version 1.20 2004-02-10
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  *
  * 杨辉三角
  */

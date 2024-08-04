@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * This program uses big numbers to compute the odds of winning the grand prize in a lottery.
  * @version 1.21 2021-09-03
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  */
 public class BigIntegerTest
 {

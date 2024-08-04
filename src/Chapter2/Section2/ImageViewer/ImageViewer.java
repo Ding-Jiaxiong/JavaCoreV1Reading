@@ -7,7 +7,7 @@ import javax.swing.*;
 /**
  * A program for viewing images.
  * @version 1.31 2018-04-10
- * @author Cay Horstmann
+ * @author Ding Jiaxiong
  */
 public class ImageViewer
 {
