@@ -1,4 +1,4 @@
-package Chatpter3.Section1.FirstSample;
+package Chapter3.Section1.FirstSample;
 
 /**
  * This is the first sample program in Core Java Chapter 3
