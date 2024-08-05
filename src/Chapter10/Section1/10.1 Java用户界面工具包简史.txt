@@ -1,0 +1,6 @@
+过气
+
+Java1.0 AWT → 1996年, Netscape创建 名为IFC 的GUI库 →  Sun和Netscape完善，有了 Swing → 2007年，JavaFX → 2011年，JavaFX 2.0 → 从Java 11开始，JavaFX 不再打包到 Java中
+
+重点讨论使用 Swing 实现用户界面编程。
+
